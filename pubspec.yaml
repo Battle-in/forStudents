@@ -1,0 +1,7 @@
+name: serv
+
+environment:
+  sdk: '>=2.10.0 <3.0.0'
+
+dependencies:
+  mysql1: ^0.19.2
